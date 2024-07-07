@@ -1,4 +1,5 @@
 {
+  "homepage": "https://kassahun52.github.io/supper-netflix-Clone-1",
   "name": "supper-netflix-clone-1",
   "version": "0.1.0",
   "private": true,
@@ -12,6 +13,7 @@
     "@testing-library/user-event": "^13.5.0",
     "axios": "^1.7.2",
     "get": "^1.4.0",
+    "github-page-type": "^0.1.1",
     "movie-trailer": "^3.2.2",
     "react": "^18.3.1",
     "react-dom": "^18.3.1",
@@ -22,6 +24,8 @@
   },
   "scripts": {
     "start": "react-scripts start",
+    "predeploy": "npm run build",
+    "display": "gh-pages -d build",
     "build": "react-scripts build",
     "test": "react-scripts test",
     "eject": "react-scripts eject"
