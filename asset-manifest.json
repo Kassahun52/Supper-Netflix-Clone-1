@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/supper-netflix-Clone-1/static/css/main.582b02ea.css",
+    "main.js": "/supper-netflix-Clone-1/static/js/main.8d446897.js",
+    "static/media/Netflix_Logo_PMS.png": "/supper-netflix-Clone-1/static/media/Netflix_Logo_PMS.303904f75553a51bbf31.png",
+    "index.html": "/supper-netflix-Clone-1/index.html",
+    "main.582b02ea.css.map": "/supper-netflix-Clone-1/static/css/main.582b02ea.css.map",
+    "main.8d446897.js.map": "/supper-netflix-Clone-1/static/js/main.8d446897.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.582b02ea.css",
+    "static/js/main.8d446897.js"
+  ]
+}
