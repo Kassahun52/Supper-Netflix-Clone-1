@@ -41,6 +41,8 @@ const RowList = () => {
         title ="Documentaries"
         fetchUrl = {requests.fetchDocumentaries}
         />
+        
+
     </>
   )
 }
